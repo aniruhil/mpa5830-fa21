@@ -1,4 +1,4 @@
 
-install.packages(
-  c("tidyverse", "tidycensus", "foreign")
-  )
+install.packages("tidyverse")
+install.packages("foreign")
+
