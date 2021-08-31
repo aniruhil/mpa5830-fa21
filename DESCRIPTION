@@ -1,16 +1,16 @@
-#Type: MPA-5830  
-#Package: mpa5830
-#Title: Materials for MPA 5830 (Fall 2021)
-#Version: 0.0.1
-#Authors@R: 
-#    person(given = "Ani",
-#           family = "Ruhil",
-#           role = c("aut", "cre"),
-#           email = "ruhil@ohio.edu")
-#Description: Notebooks for MPA 5830
-#License: MIT + file LICENSE
-#Depends: 
-#    tidyverse
-#    foreign
-#Encoding: UTF-8
-#LazyData: true
+Type: MPA-5830  
+Package: mpa5830
+Title: Materials for MPA 5830 (Fall 2021)
+Version: 0.0.1
+Authors@R: 
+    person(given = "Ani",
+           family = "Ruhil",
+           role = c("aut", "cre"),
+           email = "ruhil@ohio.edu")
+Description: Notebooks for MPA 5830
+License: MIT + file LICENSE
+Depends: 
+    tidyverse
+    foreign
+Encoding: UTF-8
+LazyData: true
